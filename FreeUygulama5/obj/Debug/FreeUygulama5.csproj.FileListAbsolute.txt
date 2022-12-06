@@ -1,0 +1,8 @@
+C:\Users\Furkan\source\repos\FreeUygulama5\FreeUygulama5\obj\Debug\FreeUygulama5.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\FreeUygulama5\FreeUygulama5\obj\Debug\FreeUygulama5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Furkan\source\repos\FreeUygulama5\FreeUygulama5\obj\Debug\FreeUygulama5.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\FreeUygulama5\FreeUygulama5\bin\Debug\FreeUygulama5.exe.config
+C:\Users\Furkan\source\repos\FreeUygulama5\FreeUygulama5\bin\Debug\FreeUygulama5.exe
+C:\Users\Furkan\source\repos\FreeUygulama5\FreeUygulama5\bin\Debug\FreeUygulama5.pdb
+C:\Users\Furkan\source\repos\FreeUygulama5\FreeUygulama5\obj\Debug\FreeUygulama5.exe
+C:\Users\Furkan\source\repos\FreeUygulama5\FreeUygulama5\obj\Debug\FreeUygulama5.pdb
